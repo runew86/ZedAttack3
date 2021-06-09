@@ -1,0 +1,1312 @@
+﻿Log file open, 06/10/21 00:51:39
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: Zed_Attack2
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 2.922742
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin Landmass
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Water
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/Kalinchenko/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-14830424
+LogInit: Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 1500X Quad-Core Processor          , GPU: NVIDIA GeForce GTX 950
+LogInit: Compiled (64-bit): Dec  1 2020 15:13:26
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal Projects/ZedAttack3/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2021.06.09-21.51.45:942][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.06.09-21.51.45:942][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.06.09-21.51.45:953][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Unreal Projects/ZedAttack3/Saved/Config/Windows/Engine.ini]
+[2021.06.09-21.51.45:953][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.06.09-21.51.45:953][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Unreal Projects/ZedAttack3/Saved/Config/Windows/Engine.ini]
+[2021.06.09-21.51.45:953][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal Projects/ZedAttack3/Saved/Config/Windows/Engine.ini]
+[2021.06.09-21.51.45:953][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.06.09-21.51.45:953][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.06.09-21.51.45:953][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.06.09-21.51.45:953][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.06.09-21.51.45:953][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.06.09-21.51.45:953][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.06.09-21.51.45:953][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.06.09-21.51.45:953][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.06.09-21.51.45:953][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.06.09-21.51.45:953][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.06.09-21.51.45:953][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.06.09-21.51.45:953][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.06.09-21.51.45:953][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.06.09-21.51.45:953][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.06.09-21.51.45:953][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Unreal Projects/ZedAttack3/Saved/Config/Windows/Engine.ini]
+[2021.06.09-21.51.45:953][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.06.09-21.51.45:953][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.06.09-21.51.45:953][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.06.09-21.51.45:953][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.06.09-21.51.45:953][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.06.09-21.51.45:953][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.06.09-21.51.45:953][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.06.09-21.51.45:953][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.06.09-21.51.45:953][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.06.09-21.51.45:953][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.06.09-21.51.45:953][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.06.09-21.51.45:953][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.06.09-21.51.45:953][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.06.09-21.51.45:953][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.06.09-21.51.45:953][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Unreal Projects/ZedAttack3/Saved/Config/Windows/Engine.ini]
+[2021.06.09-21.51.45:953][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Unreal Projects/ZedAttack3/Saved/Config/Windows/Engine.ini]
+[2021.06.09-21.51.45:985][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal Projects/ZedAttack3/Saved/Config/Windows/Scalability.ini]
+[2021.06.09-21.51.45:985][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.06.09-21.51.45:985][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.06.09-21.51.45:985][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal Projects/ZedAttack3/Saved/Config/Windows/Scalability.ini]
+[2021.06.09-21.51.45:985][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.06.09-21.51.45:985][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal Projects/ZedAttack3/Saved/Config/Windows/Scalability.ini]
+[2021.06.09-21.51.45:985][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.06.09-21.51.45:985][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.06.09-21.51.45:985][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.06.09-21.51.45:985][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.06.09-21.51.45:985][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.06.09-21.51.45:985][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.06.09-21.51.45:985][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.06.09-21.51.45:985][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.06.09-21.51.45:985][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.06.09-21.51.45:985][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.06.09-21.51.45:985][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.06.09-21.51.45:985][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.06.09-21.51.45:985][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.06.09-21.51.45:985][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.06.09-21.51.45:985][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.06.09-21.51.45:985][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.06.09-21.51.45:985][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.06.09-21.51.45:985][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.06.09-21.51.45:985][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal Projects/ZedAttack3/Saved/Config/Windows/Scalability.ini]
+[2021.06.09-21.51.45:985][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.06.09-21.51.45:985][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.06.09-21.51.45:985][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.06.09-21.51.45:985][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.06.09-21.51.45:985][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.06.09-21.51.45:985][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.06.09-21.51.45:985][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.06.09-21.51.45:985][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.06.09-21.51.45:985][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.06.09-21.51.45:985][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.06.09-21.51.45:985][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.06.09-21.51.45:985][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.06.09-21.51.45:985][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.06.09-21.51.45:985][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.06.09-21.51.45:985][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.06.09-21.51.45:985][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.06.09-21.51.45:985][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.06.09-21.51.45:985][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.06.09-21.51.45:985][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.06.09-21.51.45:985][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.06.09-21.51.45:985][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.06.09-21.51.45:985][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.06.09-21.51.45:985][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.06.09-21.51.45:985][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.06.09-21.51.45:986][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.06.09-21.51.45:986][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.06.09-21.51.45:986][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.06.09-21.51.45:986][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.06.09-21.51.45:986][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.06.09-21.51.45:986][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.06.09-21.51.45:986][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal Projects/ZedAttack3/Saved/Config/Windows/Scalability.ini]
+[2021.06.09-21.51.45:986][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.06.09-21.51.45:986][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.06.09-21.51.45:986][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.06.09-21.51.45:986][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.06.09-21.51.45:986][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.06.09-21.51.45:986][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.06.09-21.51.45:986][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.06.09-21.51.45:986][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.06.09-21.51.45:986][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.06.09-21.51.45:986][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal Projects/ZedAttack3/Saved/Config/Windows/Scalability.ini]
+[2021.06.09-21.51.45:986][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.06.09-21.51.45:986][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.06.09-21.51.45:986][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.06.09-21.51.45:986][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.06.09-21.51.45:986][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.06.09-21.51.45:986][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.06.09-21.51.45:986][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.06.09-21.51.45:986][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.06.09-21.51.45:986][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.06.09-21.51.45:986][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.06.09-21.51.45:986][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.06.09-21.51.45:986][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.06.09-21.51.45:986][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.06.09-21.51.45:986][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.06.09-21.51.45:986][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.06.09-21.51.45:986][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.06.09-21.51.45:986][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.06.09-21.51.45:986][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.06.09-21.51.45:986][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.06.09-21.51.45:986][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.06.09-21.51.45:986][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.06.09-21.51.45:986][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.06.09-21.51.45:986][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.06.09-21.51.45:986][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.06.09-21.51.45:986][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.06.09-21.51.45:986][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.06.09-21.51.45:986][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.06.09-21.51.45:986][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2021.06.09-21.51.45:999][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal Projects/ZedAttack3/Saved/Config/Windows/Scalability.ini]
+[2021.06.09-21.51.45:999][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.06.09-21.51.45:999][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.06.09-21.51.45:999][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Unreal Projects/ZedAttack3/Saved/Config/Windows/Scalability.ini]
+[2021.06.09-21.51.45:999][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.06.09-21.51.45:999][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.06.09-21.51.45:999][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.06.09-21.51.46:006][  0]LogInit: Selected Device Profile: [Windows]
+[2021.06.09-21.51.46:006][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.06.09-21.51.46:015][  0]LogHAL: Display: Platform has ~ 8 GB [8540151808 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.06.09-21.51.46:022][  0]LogInit: Going up to parent DeviceProfile []
+[2021.06.09-21.51.46:022][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal Projects/ZedAttack3/Saved/Config/Windows/Scalability.ini]
+[2021.06.09-21.51.46:022][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.06.09-21.51.46:022][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.06.09-21.51.46:022][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal Projects/ZedAttack3/Saved/Config/Windows/Scalability.ini]
+[2021.06.09-21.51.46:022][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.06.09-21.51.46:022][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal Projects/ZedAttack3/Saved/Config/Windows/Scalability.ini]
+[2021.06.09-21.51.46:022][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.06.09-21.51.46:022][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.06.09-21.51.46:022][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.06.09-21.51.46:022][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.06.09-21.51.46:022][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.06.09-21.51.46:022][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.06.09-21.51.46:022][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.06.09-21.51.46:022][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.06.09-21.51.46:022][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.06.09-21.51.46:022][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.06.09-21.51.46:022][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.06.09-21.51.46:022][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.06.09-21.51.46:022][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.06.09-21.51.46:022][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.06.09-21.51.46:022][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.06.09-21.51.46:022][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.06.09-21.51.46:022][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.06.09-21.51.46:022][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.06.09-21.51.46:022][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal Projects/ZedAttack3/Saved/Config/Windows/Scalability.ini]
+[2021.06.09-21.51.46:022][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.06.09-21.51.46:022][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.06.09-21.51.46:022][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.06.09-21.51.46:022][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.06.09-21.51.46:022][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.06.09-21.51.46:022][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.06.09-21.51.46:022][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.06.09-21.51.46:022][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.06.09-21.51.46:022][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.06.09-21.51.46:022][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.06.09-21.51.46:022][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.06.09-21.51.46:022][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.06.09-21.51.46:022][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.06.09-21.51.46:022][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.06.09-21.51.46:022][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.06.09-21.51.46:022][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.06.09-21.51.46:022][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.06.09-21.51.46:022][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.06.09-21.51.46:022][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.06.09-21.51.46:022][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.06.09-21.51.46:022][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.06.09-21.51.46:022][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.06.09-21.51.46:022][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.06.09-21.51.46:022][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.06.09-21.51.46:022][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.06.09-21.51.46:022][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.06.09-21.51.46:022][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.06.09-21.51.46:022][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.06.09-21.51.46:022][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.06.09-21.51.46:022][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.06.09-21.51.46:022][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal Projects/ZedAttack3/Saved/Config/Windows/Scalability.ini]
+[2021.06.09-21.51.46:022][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.06.09-21.51.46:023][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.06.09-21.51.46:023][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.06.09-21.51.46:023][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.06.09-21.51.46:023][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.06.09-21.51.46:023][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.06.09-21.51.46:023][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.06.09-21.51.46:023][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.06.09-21.51.46:023][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.06.09-21.51.46:023][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal Projects/ZedAttack3/Saved/Config/Windows/Scalability.ini]
+[2021.06.09-21.51.46:023][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.06.09-21.51.46:023][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.06.09-21.51.46:023][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.06.09-21.51.46:023][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.06.09-21.51.46:023][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.06.09-21.51.46:023][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.06.09-21.51.46:023][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.06.09-21.51.46:023][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.06.09-21.51.46:023][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.06.09-21.51.46:023][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.06.09-21.51.46:023][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.06.09-21.51.46:023][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.06.09-21.51.46:023][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.06.09-21.51.46:023][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.06.09-21.51.46:023][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.06.09-21.51.46:023][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.06.09-21.51.46:023][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.06.09-21.51.46:023][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.06.09-21.51.46:023][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.06.09-21.51.46:023][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.06.09-21.51.46:023][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.06.09-21.51.46:023][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.06.09-21.51.46:023][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.06.09-21.51.46:023][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.06.09-21.51.46:023][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.06.09-21.51.46:023][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.06.09-21.51.46:023][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.06.09-21.51.46:023][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2021.06.09-21.51.46:023][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal Projects/ZedAttack3/Saved/Config/Windows/Scalability.ini]
+[2021.06.09-21.51.46:023][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.06.09-21.51.46:023][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.06.09-21.51.46:023][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Unreal Projects/ZedAttack3/Saved/Config/Windows/Scalability.ini]
+[2021.06.09-21.51.46:023][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.06.09-21.51.46:023][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.06.09-21.51.46:023][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.06.09-21.51.46:023][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.06.09-21.51.46:036][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.06.09-21.51.46:036][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.06.09-21.51.46:036][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.06.09-21.51.46:036][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal Projects/ZedAttack3/Saved/Config/Windows/Engine.ini]
+[2021.06.09-21.51.46:054][  0]LogInit: Computer: DESKTOP-A35UGUB
+[2021.06.09-21.51.46:054][  0]LogInit: User: Kalinchenko
+[2021.06.09-21.51.46:054][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.06.09-21.51.46:054][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.06.09-21.51.46:054][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2021.06.09-21.51.46:054][  0]LogMemory: Platform Memory Stats for Windows
+[2021.06.09-21.51.46:054][  0]LogMemory: Process Physical Memory: 142.56 MB used, 142.56 MB peak
+[2021.06.09-21.51.46:054][  0]LogMemory: Process Virtual Memory: 118.86 MB used, 118.86 MB peak
+[2021.06.09-21.51.46:054][  0]LogMemory: Physical Memory: 4081.82 MB used,  4062.71 MB free, 8144.52 MB total
+[2021.06.09-21.51.46:054][  0]LogMemory: Virtual Memory: 134205800.00 MB used,  11928.47 MB free, 134217728.00 MB total
+[2021.06.09-21.51.46:067][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.06.09-21.51.46:905][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.06.09-21.51.46:950][  0]LogInit: Using OS detected language (ru-RU).
+[2021.06.09-21.51.46:950][  0]LogInit: Using OS detected locale (ru-RU).
+[2021.06.09-21.51.47:163][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2021.06.09-21.51.47:172][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2021.06.09-21.51.47:172][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2021.06.09-21.51.47:172][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2021.06.09-21.51.47:172][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2021.06.09-21.51.47:187][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2021.06.09-21.51.47:196][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2021.06.09-21.51.47:196][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2021.06.09-21.51.47:276][  0]LogInit: Setting process to per monitor DPI aware
+[2021.06.09-21.51.47:462][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.06.09-21.51.47:824][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.06.09-21.51.47:824][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.06.09-21.51.51:995][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.06.09-21.51.51:995][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.06.09-21.51.51:995][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.06.09-21.51.51:995][  0]LogD3D11RHI: D3D11 adapters:
+[2021.06.09-21.51.52:129][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 950' (Feature Level 11_0)
+[2021.06.09-21.51.52:129][  0]LogD3D11RHI:       2007/0/4072 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.06.09-21.51.52:152][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.06.09-21.51.52:152][  0]LogD3D11RHI:       0/0/4072 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.06.09-21.51.52:152][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.06.09-21.51.52:185][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.06.09-21.51.52:185][  0]LogD3D11RHI:     GPU DeviceId: 0x1402 (for the marketing name, search the web for "GPU Device Id")
+[2021.06.09-21.51.52:185][  0]LogWindows: EnumDisplayDevices:
+[2021.06.09-21.51.52:185][  0]LogWindows:    0. 'NVIDIA GeForce GTX 950' (P:1 D:1)
+[2021.06.09-21.51.52:186][  0]LogWindows:    1. 'NVIDIA GeForce GTX 950' (P:0 D:0)
+[2021.06.09-21.51.52:186][  0]LogWindows:    2. 'NVIDIA GeForce GTX 950' (P:0 D:0)
+[2021.06.09-21.51.52:186][  0]LogWindows:    3. 'NVIDIA GeForce GTX 950' (P:0 D:0)
+[2021.06.09-21.51.52:186][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.06.09-21.51.52:186][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 950
+[2021.06.09-21.51.52:187][  0]LogD3D11RHI:   Driver Version: 456.71 (internal:27.21.14.5671, unified:456.71)
+[2021.06.09-21.51.52:187][  0]LogD3D11RHI:      Driver Date: 9-30-2020
+[2021.06.09-21.51.52:188][  0]LogRHI: Texture pool is 1405 MB (70% of 2007 MB)
+[2021.06.09-21.51.52:264][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.06.09-21.51.52:266][  0]LogD3D11RHI: Async texture creation enabled
+[2021.06.09-21.51.52:266][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.06.09-21.51.52:732][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.06.09-21.51.52:761][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.06.09-21.51.53:831][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.06.09-21.51.53:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.06.09-21.51.53:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.06.09-21.51.53:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.06.09-21.51.53:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.06.09-21.51.53:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.06.09-21.51.53:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.06.09-21.51.53:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.06.09-21.51.53:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.06.09-21.51.53:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.06.09-21.51.53:886][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.06.09-21.51.54:007][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.06.09-21.51.54:007][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.06.09-21.51.54:063][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.06.09-21.51.54:105][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.06.09-21.51.54:137][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.06.09-21.51.54:197][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.06.09-21.51.54:236][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.06.09-21.51.54:287][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.06.09-21.51.54:326][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.06.09-21.51.54:404][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.06.09-21.51.54:404][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.06.09-21.51.54:448][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.06.09-21.51.54:499][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.06.09-21.51.54:539][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.06.09-21.51.54:567][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.06.09-21.51.54:616][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.06.09-21.51.54:616][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.06.09-21.51.54:664][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.06.09-21.51.54:706][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.06.09-21.51.54:742][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.06.09-21.51.54:780][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.06.09-21.51.54:780][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.06.09-21.51.54:960][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.06.09-21.51.56:031][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.06.09-21.51.56:051][  0]LogShaderCompilers: Guid format shader working directory is 11 characters bigger than the processId version (../../../../../Unreal Projects/ZedAttack3/Intermediate/Shaders/WorkingDirectory/2844/).
+[2021.06.09-21.51.56:051][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Kalinchenko/AppData/Local/Temp/UnrealShaderWorkingDir/1654225448643535BF6BFDA8C4FAAE8E/'.
+[2021.06.09-21.51.56:059][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.06.09-21.51.56:059][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.06.09-21.52.01:374][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.06.09-21.52.02:254][  0]LogDerivedDataCache: Loaded boot cache 0.88s 86MB C:/Users/Kalinchenko/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.06.09-21.52.02:254][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Kalinchenko/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.06.09-21.52.02:254][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal Projects/ZedAttack3/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.06.09-21.52.02:254][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.06.09-21.52.02:254][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal Projects/ZedAttack3/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.06.09-21.52.02:254][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.06.09-21.52.02:320][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.06.09-21.52.02:320][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.06.09-21.52.02:320][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.06.09-21.52.02:429][  0]LogDerivedDataCache: Speed tests for C:/Users/Kalinchenko/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.11 seconds
+[2021.06.09-21.52.02:429][  0]LogDerivedDataCache: Display: Performance to C:/Users/Kalinchenko/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.47ms. RandomReadSpeed=11.82MBs, RandomWriteSpeed=69.20MBs. Assigned SpeedClass 'Local'
+[2021.06.09-21.52.02:430][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Kalinchenko/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.06.09-21.52.02:430][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.06.09-21.52.02:430][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.06.09-21.52.02:639][  0]LogSlate: Using FreeType 2.10.0
+[2021.06.09-21.52.02:723][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.06.09-21.52.03:533][  0]LogAssetRegistry: FAssetRegistry took 0.0158 seconds to start up
+[2021.06.09-21.52.09:025][  0]LogInit: Selected Device Profile: [Windows]
+[2021.06.09-21.52.09:026][  0]LogInit: Active device profile: [0000023DEB992100][0000023DEA1BDD40 49] Windows
+[2021.06.09-21.52.09:026][  0]LogInit: Profiles: [0000023DEB992100][0000023DEA1BDD40 49] Windows, [0000023DEB919D00][0000023DEA1C4200 49] WindowsNoEditor, [0000023DEB991700][0000023DEA1C8380 49] WindowsServer, [0000023DEB919200][0000023DEA1CC500 49] WindowsClient, [0000023DEB990C00][0000023DEA1D0680 49] IOS, [0000023DEB91AE00][0000023DEA1D4800 49] iPadAir, [0000023DEB990600][0000023DEA1D8980 49] iPadAir2, [0000023DEB8D2100][0000023DEA1E0C40 49] IPadPro, [0000023DEB8D2200][0000023DEA1DCC80 49] iPadAir3, [0000023DEB919700][0000023DEA1E4E00 49] iPadAir4, [0000023DEB8D2600][0000023DEA1E8F80 49] iPadMini2, [0000023DEB919B00][0000023DEA1ED100 49] iPadMini3, [0000023DEB8D1200][0000023DEA1F1280 49] iPadMini4, [0000023DEB91A300][0000023DEA1F5400 49] iPadMini5, [0000023DEB8F1A00][0000023DEA1C1680 49] iPhone6, [0000023DEB8F1B00][0000023DEA1F96C0 49] iPodTouch6, [0000023DEB8D3D00][0000023DEA201900 49] iPhone7, [0000023DEB8D3F00][0000023DEA1FD940 49] iPodTouch7, [0000023DEB8F3200][0000023DEA205A80 49] iPhone5S, [0000023DEB8D2C00][0000023DEA20DC00 49] iPhone6Plus, [0000023DEB8F1400][0000023DEA2100C0 49] iPhone6S, [0000023DEB8D2400][0000023DEA214240 49] iPhone6SPlus, [0000023DEB8F0200][0000023DEA2183C0 49] iPhone7Plus, [0000023DEB8D2B00][0000023DEA21C540 49] iPhoneSE, [0000023DEB8F2100][0000023DEA2206C0 49] iPhone8, [0000023DEB8D1A00][0000023DEA224840 49] iPhone8Plus, [0000023DEB8F3E00][0000023DEA2289C0 49] iPhoneX, [0000023DEB8D3C00][0000023DEA22CB40 49] iPhoneXS, [0000023DEB8F0300][0000023DEA230CC0 49] iPhoneXSMax, [0000023DEB8D2D00][0000023DEA234E40 49] iPhoneXR, [0000023DEB8F3000][0000023DEA238FC0 49] iPhone11, [0000023DEB8D3200][0000023DEA23D140 49] iPhone11Pro, [0000023DEB8F2600][0000023DEA2412C0 49] iPhone11ProMax, [0000023DEB8D1600][0000023DEA245440 49] iPhoneSE2, [0000023DEB8F2000][0000023DEA2495C0 49] iPhone12Mini, [0000023DEB8D0600][0000023DEA209700 49] iPhone12, [0000023DEB8F2D00][0000023DEA24D840 49] iPhone12Pro, [0000023DEB8D2E00][0000023DEA251980 49] iPhone12ProMax, [0000023DEB8F2A00][0000023DEA255AC0 49] iPadPro105, [0000023DEB8D2A00][0000023DEA25DC40 49] iPadPro129, [0000023DEB8F3F00][0000023DEA260100 49] iPadPro97, [0000023DEB991200][0000023DEA264280 49] iPadPro2_129, [0000023DEB8F1F00][0000023DEA268400 49] iPad5, [0000023DEB991900][0000023DEA26C580 49] iPad6, [0000023DEB8F0900][0000023DEA270700 49] iPad7, [0000023DEB991500][0000023DEA274880 49] iPad8, [0000023DEB8F0100][0000023DEA278A00 49] iPadPro11, [0000023DEB991100][0000023DEA27CB80 49] iPadPro2_11, [0000023DEB8F3900][0000023DEA280D00 49] iPadPro3_129, [0000023DEB991F00][0000023DEA284E80 49] iPadPro4_129, [0000023DEB8F0D00][0000023DEA289000 49] AppleTV, [0000023DEB991B00][0000023DEA28D180 49] AppleTV4K, [0000023DEB8F2C00][0000023DEA291300 49] TVOS, [0000023DEB990700][0000023DEA295480 49] Mac, [0000023DEB8F3700][0000023DEA299600 49] MacClient, [0000023DEB991E00][0000023DEA29D780 49] MacNoEditor, [0000023DEB8F3C00][0000023DEA2598C0 49] MacServer, [0000023DEB990400][0000023DEA2A1A00 49] Linux, [0000023DEB8F1200][0000023DEA2A5B40 49] LinuxNoEditor, [0000023DEB991C00][0000023DEA2ADCC0 49] LinuxAArch64NoEditor, [0000023DEB8F3A00][0000023DE9BA2180 49] LinuxClient, [0000023DEB993200][0000023DE9BA6300 49] LinuxAArch64Client, [0000023DEB8F1600][0000023DE9BAA480 49] LinuxServer, [0000023DEB992E00][0000023DE9BAE600 49] LinuxAArch64Server, [0000023DEB8F2800][0000023DE9BB2780 49] Android, [0000023DEB992F00][0000023DE9BB6900 49] Android_Low, [0000023DEB8F2300][0000023DE9BBAA80 49] Android_Mid, [0000023DEB992C00][0000023DE9BBEC00 49] Android_High, [0000023DEB8F3500][0000023DE9BC2D80 49] Android_Default, [0000023DEB990F00][0000023DE9BC6F00 49] Android_Adreno4xx, [0000023DEB8F1700][0000023DE9BCB080 49] Android_Adreno5xx_Low, [0000023DEB991600][0000023DE9BCF200 49] Android_Adreno5xx, [0000023DEB8F2F00][0000023DE9BD3380 49] Android_Adreno6xx, [0000023DEB990900][0000023DE9BD7500 49] Android_Adreno6xx_Vulkan, [0000023DEB8F3100][0000023DE9BDB680 49] Android_Mali_T6xx, [0000023DEB990800][0000023DE9BDF800 49] Android_Mali_T7xx, [0000023DEB8F0800][0000023DEA2A9940 49] Android_Mali_T8xx, [0000023DEB992500][0000023DE9BE3A80 49] Android_Mali_G71, [0000023DEB91B200][0000023DE9BE7BC0 49] Android_Mali_G72, [0000023DEB8D1000][0000023DE9BEBD00 49] Android_Mali_G72_Vulkan, [0000023DEB919000][0000023DE9BF21C0 49] Android_Mali_G76, [0000023DEB8D1B00][0000023DE9BF6340 49] Android_Mali_G76_Vulkan, [0000023DEB918D00][0000023DE9BFA4C0 49] Android_Mali_G77, [0000023DEB8D3700][0000023DE9BFE640 49] Android_Mali_G77_Vulkan, [0000023DEB91B300][0000023DE9C027C0 49] Android_Vulkan_SM5, [0000023DEB8D3B00][0000023DE9C06940 49] Android_PowerVR_G6xxx, [0000023DEB91AA00][0000023DE9C0AAC0 49] Android_PowerVR_GT7xxx, [0000023DEB8D3900][0000023DE9C0EC40 49] Android_PowerVR_GE8xxx, [0000023DEB91B000][0000023DE9C12DC0 49] Android_PowerVR_GM9xxx, [0000023DEB8D0C00][0000023DE9C16F40 49] Android_PowerVR_GM9xxx_Vulkan, [0000023DEB91B800][0000023DE9C1B0C0 49] Android_TegraK1, [0000023DEB8D3E00][0000023DE9C1F240 49] Android_Unknown_Vulkan, [0000023DEB91B700][0000023DE9C233C0 49] Lumin, [0000023DEB8D2300][0000023DE9C27540 49] Lumin_Desktop, [0000023DEB91AB00][0000023DE9C2B6C0 49] HoloLens, 
+[2021.06.09-21.52.10:815][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.06.09-21.52.10:815][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.06.09-21.52.10:815][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.06.09-21.52.10:815][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.06.09-21.52.10:816][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.06.09-21.52.11:394][  0]LogNetVersion: Zed_Attack2 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3208171915)
+[2021.06.09-21.52.23:998][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.06.09-21.52.24:228][  0]LogPackageLocalizationCache: Processed 24 localized package path(s) for 1 prioritized culture(s) in 0.144720 seconds
+[2021.06.09-21.52.24:269][  0]LogUObjectArray: 17491 objects as part of root set at end of initial load.
+[2021.06.09-21.52.24:278][  0]LogUObjectAllocator: 4476048 out of 0 bytes used by permanent object pool.
+[2021.06.09-21.52.24:278][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.06.09-21.52.27:678][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.06.09-21.52.27:747][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.06.09-21.52.34:954][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.06.09-21.52.35:306][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.06.09-21.52.35:307][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.06.09-21.52.35:965][  0]SourceControl: Source control is disabled
+[2021.06.09-21.52.35:965][  0]SourceControl: Source control is disabled
+[2021.06.09-21.52.36:207][  0]SourceControl: Source control is disabled
+[2021.06.09-21.52.36:244][  0]SourceControl: Source control is disabled
+[2021.06.09-21.52.36:327][  0]SourceControl: Source control is disabled
+[2021.06.09-21.52.36:448][  0]LogUProjectInfo: Found projects:
+[2021.06.09-21.52.36:937][  0]LogCollectionManager: Loaded 0 collections in 0.001720 seconds
+[2021.06.09-21.52.37:254][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/ZedAttack3/Saved/Collections/' took 0.01s
+[2021.06.09-21.52.37:254][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/ZedAttack3/Content/Developers/Kalinchenko/Collections/' took 0.00s
+[2021.06.09-21.52.37:254][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/ZedAttack3/Content/Collections/' took 0.00s
+[2021.06.09-21.52.37:254][  0]LogOcInput: OculusInput pre-init called
+[2021.06.09-21.52.37:366][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.06.09-21.52.37:366][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.06.09-21.52.39:312][  0]LogEngine: Initializing Engine...
+[2021.06.09-21.52.39:399][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.06.09-21.52.39:407][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.06.09-21.52.39:540][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.015 s
+[2021.06.09-21.52.40:447][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.06.09-21.52.41:305][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.06.09-21.52.41:513][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.06.09-21.52.41:652][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.06.09-21.52.41:652][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.06.09-21.52.41:700][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.09-21.52.41:700][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.09-21.52.41:700][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.09-21.52.41:700][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.09-21.52.41:700][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.09-21.52.41:700][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.09-21.52.41:700][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.09-21.52.41:712][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.09-21.52.41:731][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.09-21.52.41:731][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.09-21.52.41:841][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.09-21.52.41:841][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.06.09-21.52.41:897][  0]LogAudioMixer: Display: Using Audio Device Динамики (High Definition Audio Device)
+[2021.06.09-21.52.41:959][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.09-21.52.42:015][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.09-21.52.42:015][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.09-21.52.42:027][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.09-21.52.42:027][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.09-21.52.42:027][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.09-21.52.42:029][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.09-21.52.42:029][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.09-21.52.42:029][  0]LogInit: FAudioDevice initialized.
+[2021.06.09-21.52.42:060][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.06.09-21.52.42:060][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.06.09-21.52.42:083][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.06.09-21.52.42:360][  0]LogDerivedDataCache: Saved boot cache 0.28s 86MB C:/Users/Kalinchenko/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.06.09-21.52.42:396][  0]LogInit: Texture streaming: Enabled
+[2021.06.09-21.52.42:581][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.0-14830424+++UE4+Release-4.26
+[2021.06.09-21.52.42:642][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.06.09-21.52.42:652][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.06.09-21.52.42:678][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.06.09-21.52.42:923][  0]LogInit: Transaction tracking system initialized
+[2021.06.09-21.52.43:358][  0]BlueprintLog: New page: Editor Load
+[2021.06.09-21.52.44:823][  0]LocalizationService: Localization service is disabled
+[2021.06.09-21.52.45:276][  0]TimingProfiler: Initialize
+[2021.06.09-21.52.45:277][  0]TimingProfiler: OnSessionChanged
+[2021.06.09-21.52.45:278][  0]LoadingProfiler: Initialize
+[2021.06.09-21.52.45:279][  0]LoadingProfiler: OnSessionChanged
+[2021.06.09-21.52.45:279][  0]NetworkingProfiler: Initialize
+[2021.06.09-21.52.45:279][  0]NetworkingProfiler: OnSessionChanged
+[2021.06.09-21.52.45:279][  0]MemoryProfiler: Initialize
+[2021.06.09-21.52.45:279][  0]MemoryProfiler: OnSessionChanged
+[2021.06.09-21.52.48:169][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/ZedAttack3/Content/' took 0.03s
+[2021.06.09-21.52.48:169][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.06.09-21.52.48:169][  0]LogCook: Display: Mobile HDR setting 1
+[2021.06.09-21.52.52:977][  0]SourceControl: Source control is disabled
+[2021.06.09-21.52.53:003][  0]LogUnrealEdMisc: Loading editor; pre map load, took 90.479
+[2021.06.09-21.52.53:197][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 D:/Epic Games/UE_4.26/FeaturePacks/StarterContent.upack)
+[2021.06.09-21.52.53:225][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.09-21.52.53:225][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.09-21.52.53:225][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.09-21.52.53:330][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2021.06.09-21.52.53:362][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2021.06.09-21.52.53:380][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2021.06.09-21.52.53:398][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2021.06.09-21.52.53:404][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2021.06.09-21.52.53:412][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2021.06.09-21.52.53:432][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2021.06.09-21.52.53:439][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2021.06.09-21.52.53:447][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2021.06.09-21.52.53:453][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2021.06.09-21.52.53:461][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2021.06.09-21.52.53:467][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2021.06.09-21.52.53:485][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Audio/Collapse01.uasset"
+[2021.06.09-21.52.53:493][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Audio/Collapse02.uasset"
+[2021.06.09-21.52.53:507][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2021.06.09-21.52.53:517][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Audio/Explosion01.uasset"
+[2021.06.09-21.52.53:533][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Audio/Explosion02.uasset"
+[2021.06.09-21.52.53:564][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2021.06.09-21.52.53:580][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Audio/Fire01.uasset"
+[2021.06.09-21.52.53:594][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2021.06.09-21.52.53:619][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2021.06.09-21.52.53:626][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2021.06.09-21.52.53:641][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Audio/Light01.uasset"
+[2021.06.09-21.52.53:647][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2021.06.09-21.52.53:656][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Audio/Light02.uasset"
+[2021.06.09-21.52.53:662][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2021.06.09-21.52.53:672][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Audio/Smoke01.uasset"
+[2021.06.09-21.52.53:678][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2021.06.09-21.52.53:684][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2021.06.09-21.52.53:711][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2021.06.09-21.52.53:756][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2021.06.09-21.52.53:791][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2021.06.09-21.52.53:814][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2021.06.09-21.52.53:830][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2021.06.09-21.52.53:857][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Audio/Steam01.uasset"
+[2021.06.09-21.52.53:865][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2021.06.09-21.52.53:880][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2021.06.09-21.52.53:906][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2021.06.09-21.52.53:913][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2021.06.09-21.52.53:919][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2021.06.09-21.52.53:926][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2021.06.09-21.52.53:932][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2021.06.09-21.52.53:949][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2021.06.09-21.52.53:971][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2021.06.09-21.52.53:988][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2021.06.09-21.52.54:015][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2021.06.09-21.52.54:042][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2021.06.09-21.52.54:053][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2021.06.09-21.52.54:060][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2021.06.09-21.52.54:075][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2021.06.09-21.52.54:103][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2021.06.09-21.52.54:110][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2021.06.09-21.52.54:566][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2021.06.09-21.52.54:573][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2021.06.09-21.52.54:595][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2021.06.09-21.52.54:613][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Maps/Minimal_Default.umap"
+[2021.06.09-21.52.54:633][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2021.06.09-21.52.54:642][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Maps/StarterMap.umap"
+[2021.06.09-21.52.54:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2021.06.09-21.52.54:831][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2021.06.09-21.52.54:874][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2021.06.09-21.52.54:884][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2021.06.09-21.52.54:898][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2021.06.09-21.52.54:937][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2021.06.09-21.52.54:959][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2021.06.09-21.52.54:974][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2021.06.09-21.52.54:986][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2021.06.09-21.52.55:001][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2021.06.09-21.52.55:007][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2021.06.09-21.52.55:019][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2021.06.09-21.52.55:031][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2021.06.09-21.52.55:044][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2021.06.09-21.52.55:054][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2021.06.09-21.52.55:071][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2021.06.09-21.52.55:077][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2021.06.09-21.52.55:093][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2021.06.09-21.52.55:100][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Materials/M_Glass.uasset"
+[2021.06.09-21.52.55:107][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2021.06.09-21.52.55:113][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2021.06.09-21.52.55:126][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2021.06.09-21.52.55:173][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2021.06.09-21.52.55:183][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2021.06.09-21.52.55:202][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2021.06.09-21.52.55:216][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2021.06.09-21.52.55:232][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2021.06.09-21.52.55:239][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2021.06.09-21.52.55:245][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2021.06.09-21.52.55:251][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2021.06.09-21.52.55:257][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2021.06.09-21.52.55:270][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2021.06.09-21.52.55:277][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2021.06.09-21.52.55:284][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2021.06.09-21.52.55:294][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2021.06.09-21.52.55:301][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2021.06.09-21.52.55:308][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2021.06.09-21.52.55:315][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2021.06.09-21.52.55:326][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2021.06.09-21.52.55:333][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2021.06.09-21.52.55:352][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2021.06.09-21.52.55:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2021.06.09-21.52.55:411][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2021.06.09-21.52.55:424][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2021.06.09-21.52.55:443][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2021.06.09-21.52.55:465][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Particles/P_Explosion.uasset"
+[2021.06.09-21.52.55:476][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Particles/P_Fire.uasset"
+[2021.06.09-21.52.55:493][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Particles/P_Smoke.uasset"
+[2021.06.09-21.52.55:505][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Particles/P_Sparks.uasset"
+[2021.06.09-21.52.55:518][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2021.06.09-21.52.55:533][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2021.06.09-21.52.55:540][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2021.06.09-21.52.55:548][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2021.06.09-21.52.55:561][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2021.06.09-21.52.55:567][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2021.06.09-21.52.55:574][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2021.06.09-21.52.55:581][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2021.06.09-21.52.55:608][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2021.06.09-21.52.55:629][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2021.06.09-21.52.55:795][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2021.06.09-21.52.55:803][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Props/MaterialSphere.uasset"
+[2021.06.09-21.52.55:814][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Props/SM_Bush.uasset"
+[2021.06.09-21.52.55:822][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Props/SM_Chair.uasset"
+[2021.06.09-21.52.55:829][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2021.06.09-21.52.55:835][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Props/SM_Couch.uasset"
+[2021.06.09-21.52.55:853][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Props/SM_Door.uasset"
+[2021.06.09-21.52.55:860][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2021.06.09-21.52.55:877][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2021.06.09-21.52.55:897][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2021.06.09-21.52.55:910][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2021.06.09-21.52.55:936][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2021.06.09-21.52.55:944][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2021.06.09-21.52.55:950][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2021.06.09-21.52.55:969][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Props/SM_Rock.uasset"
+[2021.06.09-21.52.55:976][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Props/SM_Shelf.uasset"
+[2021.06.09-21.52.55:983][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Props/SM_Stairs.uasset"
+[2021.06.09-21.52.56:000][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Props/SM_Statue.uasset"
+[2021.06.09-21.52.56:046][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Props/SM_TableRound.uasset"
+[2021.06.09-21.52.56:053][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2021.06.09-21.52.56:064][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2021.06.09-21.52.56:071][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2021.06.09-21.52.56:078][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2021.06.09-21.52.56:084][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2021.06.09-21.52.56:090][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2021.06.09-21.52.56:096][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2021.06.09-21.52.56:116][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2021.06.09-21.52.56:123][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2021.06.09-21.52.56:130][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2021.06.09-21.52.56:137][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2021.06.09-21.52.56:172][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2021.06.09-21.52.56:179][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2021.06.09-21.52.56:185][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2021.06.09-21.52.56:195][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2021.06.09-21.52.56:205][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2021.06.09-21.52.56:216][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2021.06.09-21.52.56:227][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2021.06.09-21.52.56:288][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2021.06.09-21.52.56:299][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2021.06.09-21.52.56:309][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2021.06.09-21.52.56:318][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2021.06.09-21.52.56:331][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2021.06.09-21.52.56:353][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2021.06.09-21.52.56:362][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2021.06.09-21.52.56:369][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2021.06.09-21.52.56:379][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2021.06.09-21.52.56:386][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2021.06.09-21.52.56:393][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2021.06.09-21.52.56:400][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2021.06.09-21.52.56:408][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2021.06.09-21.52.56:415][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2021.06.09-21.52.56:467][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2021.06.09-21.52.56:567][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2021.06.09-21.52.56:619][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2021.06.09-21.52.56:668][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2021.06.09-21.52.56:729][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2021.06.09-21.52.56:858][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2021.06.09-21.52.56:953][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2021.06.09-21.52.57:241][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2021.06.09-21.52.57:333][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2021.06.09-21.52.57:404][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2021.06.09-21.52.57:479][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2021.06.09-21.52.57:577][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2021.06.09-21.52.57:650][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2021.06.09-21.52.57:676][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2021.06.09-21.52.57:694][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2021.06.09-21.52.57:713][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2021.06.09-21.52.57:740][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2021.06.09-21.52.57:777][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2021.06.09-21.52.57:800][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2021.06.09-21.52.57:832][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2021.06.09-21.52.57:851][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2021.06.09-21.52.57:940][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2021.06.09-21.52.57:963][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2021.06.09-21.52.58:190][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2021.06.09-21.52.58:268][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2021.06.09-21.52.58:331][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2021.06.09-21.52.58:453][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2021.06.09-21.52.58:527][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2021.06.09-21.52.58:631][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2021.06.09-21.52.58:707][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2021.06.09-21.52.58:823][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2021.06.09-21.52.58:877][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2021.06.09-21.52.58:954][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2021.06.09-21.52.59:019][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2021.06.09-21.52.59:073][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2021.06.09-21.52.59:121][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2021.06.09-21.52.59:169][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2021.06.09-21.52.59:187][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2021.06.09-21.52.59:216][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2021.06.09-21.52.59:244][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Door_M.uasset"
+[2021.06.09-21.52.59:299][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Door_N.uasset"
+[2021.06.09-21.52.59:313][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2021.06.09-21.52.59:366][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2021.06.09-21.52.59:383][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2021.06.09-21.52.59:401][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2021.06.09-21.52.59:423][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2021.06.09-21.52.59:443][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2021.06.09-21.52.59:449][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2021.06.09-21.52.59:522][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2021.06.09-21.52.59:786][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2021.06.09-21.52.59:886][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2021.06.09-21.53.00:178][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2021.06.09-21.53.01:711][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2021.06.09-21.53.01:789][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2021.06.09-21.53.01:828][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2021.06.09-21.53.01:859][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2021.06.09-21.53.01:938][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2021.06.09-21.53.02:005][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2021.06.09-21.53.02:090][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2021.06.09-21.53.02:180][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2021.06.09-21.53.02:217][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2021.06.09-21.53.02:340][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2021.06.09-21.53.02:621][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2021.06.09-21.53.02:662][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2021.06.09-21.53.02:703][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2021.06.09-21.53.02:781][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2021.06.09-21.53.02:912][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2021.06.09-21.53.02:957][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2021.06.09-21.53.03:032][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2021.06.09-21.53.03:087][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2021.06.09-21.53.03:164][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2021.06.09-21.53.03:249][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2021.06.09-21.53.03:319][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2021.06.09-21.53.03:425][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2021.06.09-21.53.03:511][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2021.06.09-21.53.03:591][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2021.06.09-21.53.03:636][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2021.06.09-21.53.03:850][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2021.06.09-21.53.03:866][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2021.06.09-21.53.03:901][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2021.06.09-21.53.03:920][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2021.06.09-21.53.03:963][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2021.06.09-21.53.04:183][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2021.06.09-21.53.04:483][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2021.06.09-21.53.04:526][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2021.06.09-21.53.04:621][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2021.06.09-21.53.05:102][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2021.06.09-21.53.05:129][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2021.06.09-21.53.05:315][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2021.06.09-21.53.05:428][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2021.06.09-21.53.05:455][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2021.06.09-21.53.05:480][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2021.06.09-21.53.05:506][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Water_M.uasset"
+[2021.06.09-21.53.05:532][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Water_N.uasset"
+[2021.06.09-21.53.05:576][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2021.06.09-21.53.05:617][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2021.06.09-21.53.05:781][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2021.06.09-21.53.05:830][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2021.06.09-21.53.05:870][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2021.06.09-21.53.05:932][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2021.06.09-21.53.05:966][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2021.06.09-21.53.06:065][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2021.06.09-21.53.06:094][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2021.06.09-21.53.08:082][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2021.06.09-21.53.08:718][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Architecture/Floor_400x400" FILE="../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Architecture/Floor_400x400.uasset" SILENT=true
+[2021.06.09-21.53.08:987][  0]LogSavePackage: Moving '../../../../../Unreal Projects/ZedAttack3/Saved/Floor_400x40033366880401DFA7F514CA8ACA7B27032.tmp' to '../../../../../Unreal Projects/ZedAttack3/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2021.06.09-21.53.09:080][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2021.06.09-21.53.09:101][  0]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/ZedAttack3/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.06.09-21.53.09:107][  0]LightingResults: New page: Lighting Build
+[2021.06.09-21.53.09:502][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.06.09-21.53.09:568][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.09-21.53.09:732][  0]MapCheck: New page: Map Check
+[2021.06.09-21.53.09:732][  0]LightingResults: New page: Lighting Build
+[2021.06.09-21.53.10:578][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2021.06.09-21.53.11:194][  0]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\ZedAttack3\Content\Mannequin\Animations\ThirdPerson_AnimBP.uasset: [Compiler] Play (None)  references an unknown sequence
+[2021.06.09-21.53.11:195][  0]LogBlueprint: Error: [AssetLog] D:\Unreal Projects\ZedAttack3\Content\Mannequin\Animations\ThirdPerson_AnimBP.uasset: [Compiler] Missing allocated node for AnimGraphNode_SequencePlayer_2 while searching for node links - likely due to the node having outstanding errors.
+[2021.06.09-21.53.15:237][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.06.09-21.53.15:251][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.06.09-21.53.17:396][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.06.09-21.53.17:706][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2021.06.09-21.53.17:715][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.06.09-21.53.17:715][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,412ms to complete.
+[2021.06.09-21.53.17:716][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 8.635
+[2021.06.09-21.53.19:284][  0]LogUnrealEdMisc: Total Editor Startup Time, took 116.767
+[2021.06.09-21.53.22:268][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.06.09-21.53.22:943][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.09-21.53.22:971][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.09-21.53.22:978][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.09-21.53.22:984][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.09-21.53.23:319][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0120 seconds. Added 3658 classes and 871 folders.
+[2021.06.09-21.53.23:542][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.06.09-21.53.23:643][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.06.09-21.53.23:643][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.09-21.53.23:643][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.09-21.53.23:678][  0]LogPakFile: OnPakFileMounted2Time == 0.034661
+[2021.06.09-21.53.23:700][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.06.09-21.53.23:700][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.09-21.53.23:700][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.06.09-21.53.23:700][  0]LogPakFile: OnPakFileMounted2Time == 0.034667
+[2021.06.09-21.53.23:739][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.06.09-21.53.23:739][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.09-21.53.23:739][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.06.09-21.53.23:739][  0]LogPakFile: OnPakFileMounted2Time == 0.034672
+[2021.06.09-21.53.23:741][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.09-21.53.23:741][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.09-21.53.23:741][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.09-21.53.23:741][  0]LogPakFile: OnPakFileMounted2Time == 0.034673
+[2021.06.09-21.53.23:748][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.06.09-21.53.23:748][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.09-21.53.23:748][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.06.09-21.53.23:748][  0]LogPakFile: OnPakFileMounted2Time == 0.034675
+[2021.06.09-21.53.23:756][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.06.09-21.53.23:756][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.09-21.53.23:756][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.06.09-21.53.23:756][  0]LogPakFile: OnPakFileMounted2Time == 0.034681
+[2021.06.09-21.53.23:764][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.06.09-21.53.23:764][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.09-21.53.23:764][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.06.09-21.53.23:764][  0]LogPakFile: OnPakFileMounted2Time == 0.034687
+[2021.06.09-21.53.23:773][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.06.09-21.53.23:773][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.09-21.53.23:773][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.06.09-21.53.23:773][  0]LogPakFile: OnPakFileMounted2Time == 0.034693
+[2021.06.09-21.53.23:789][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.06.09-21.53.23:789][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.09-21.53.23:789][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.06.09-21.53.23:790][  0]LogPakFile: OnPakFileMounted2Time == 0.034702
+[2021.06.09-21.53.23:799][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.06.09-21.53.23:799][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.09-21.53.23:799][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.06.09-21.53.23:799][  0]LogPakFile: OnPakFileMounted2Time == 0.034707
+[2021.06.09-21.53.23:806][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.06.09-21.53.23:806][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.09-21.53.23:806][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.06.09-21.53.23:806][  0]LogPakFile: OnPakFileMounted2Time == 0.034711
+[2021.06.09-21.53.23:818][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.06.09-21.53.23:818][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.09-21.53.23:818][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.06.09-21.53.23:818][  0]LogPakFile: OnPakFileMounted2Time == 0.034713
+[2021.06.09-21.53.23:827][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.09-21.53.23:827][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.09-21.53.23:827][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.09-21.53.23:827][  0]LogPakFile: OnPakFileMounted2Time == 0.034724
+[2021.06.09-21.53.23:842][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.06.09-21.53.23:842][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.09-21.53.23:842][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.06.09-21.53.23:842][  0]LogPakFile: OnPakFileMounted2Time == 0.034729
+[2021.06.09-21.53.23:850][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.06.09-21.53.23:850][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.09-21.53.23:850][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.06.09-21.53.23:850][  0]LogPakFile: OnPakFileMounted2Time == 0.034731
+[2021.06.09-21.53.23:858][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.06.09-21.53.23:858][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.09-21.53.23:858][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.09-21.53.23:858][  0]LogPakFile: OnPakFileMounted2Time == 0.034739
+[2021.06.09-21.53.23:867][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.06.09-21.53.23:867][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.09-21.53.23:867][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.06.09-21.53.23:867][  0]LogPakFile: OnPakFileMounted2Time == 0.034745
+[2021.06.09-21.53.23:905][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.06.09-21.53.23:905][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.09-21.53.23:905][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.06.09-21.53.23:905][  0]LogPakFile: OnPakFileMounted2Time == 0.034750
+[2021.06.09-21.53.23:913][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.09-21.53.23:913][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.09-21.53.23:913][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.09-21.53.23:913][  0]LogPakFile: OnPakFileMounted2Time == 0.034755
+[2021.06.09-21.53.23:925][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.09-21.53.23:925][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.09-21.53.23:925][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.09-21.53.23:925][  0]LogPakFile: OnPakFileMounted2Time == 0.034765
+[2021.06.09-21.53.23:933][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.06.09-21.53.23:933][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.09-21.53.23:933][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.06.09-21.53.23:933][  0]LogPakFile: OnPakFileMounted2Time == 0.034771
+[2021.06.09-21.53.23:957][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.06.09-21.53.23:957][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.09-21.53.23:957][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.06.09-21.53.23:957][  0]LogPakFile: OnPakFileMounted2Time == 0.034777
+[2021.06.09-21.53.23:966][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.06.09-21.53.23:967][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.09-21.53.23:967][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.06.09-21.53.23:967][  0]LogPakFile: OnPakFileMounted2Time == 0.034783
+[2021.06.09-21.53.23:975][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.06.09-21.53.23:975][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.09-21.53.23:975][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.06.09-21.53.23:975][  0]LogPakFile: OnPakFileMounted2Time == 0.034788
+[2021.06.09-21.53.23:987][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.06.09-21.53.23:987][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.09-21.53.23:987][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.06.09-21.53.23:987][  0]LogPakFile: OnPakFileMounted2Time == 0.034794
+[2021.06.09-21.53.23:997][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.06.09-21.53.23:997][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.06.09-21.53.23:997][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.06.09-21.53.23:997][  0]LogPakFile: OnPakFileMounted2Time == 0.034800
+[2021.06.09-21.53.26:873][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.06.09-21.53.27:078][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WorldBrowser' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2021.06.09-21.53.27:135][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2021.06.09-21.53.27:969][  0]LogSlate: Took 0.020747 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.06.09-21.53.28:020][  0]LogSlate: Took 0.017260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.06.09-21.53.28:123][  0]LogSlate: Took 0.018538 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.06.09-21.53.28:729][  0]LogRenderer: Reallocating scene render targets to support 1184x568 Format 10 NumSamples 1 (Frame:1).
+[2021.06.09-21.53.29:895][  0]LogSlate: Took 0.037496 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.06.09-21.53.30:238][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.06.09-21.53.30:239][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.06.09-21.53.30:239][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.06.09-21.53.30:239][  0]LogLoad: (Engine Initialization) Total time: 127.72 seconds
+[2021.06.09-21.53.30:239][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.06.09-21.53.30:250][  0]LogInit: First time updating LLM stats...
+[2021.06.09-21.53.30:482][  0]AssetCheck: New page: Asset Save: Floor_400x400
+[2021.06.09-21.53.30:482][  0]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2021.06.09-21.53.30:883][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.06.09-21.53.31:344][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/Unreal Projects/ZedAttack3/Content/' took 0.69s
+[2021.06.09-21.53.31:424][  1]LogAssetRegistry: Asset discovery search completed in 87.9002 seconds
+[2021.06.09-21.53.31:610][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.013210 seconds (updated 0 objects)
+[2021.06.09-21.53.33:716][  7]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.06.09-21.53.40:895][424]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.09-21.53.41:018][424]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.09-21.53.41:018][424]BlueprintLog: Warning: Blueprint failed to compile:  ThirdPerson_AnimBP
+[2021.06.09-21.53.41:031][424]LogCustomDialog: Dialog displayed:
+[2021.06.09-21.53.51:443][424]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2021.06.09-21.53.51:623][424]LogSlate: Took 0.032476 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.06.09-21.53.53:953][552]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2021.06.09-21.53.54:127][552]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2021.06.09-21.53.54:825][552]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.06.09-21.53.54:904][552]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2021.06.09-21.53.56:293][552]LogLinker: Warning: [AssetLog] D:\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2021.06.09-21.53.56:293][552]LogLinker: Warning: [AssetLog] D:\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2021.06.09-21.53.56:293][552]LogLinker: Warning: [AssetLog] D:\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2021.06.09-21.53.57:082][552]LogLinker: Warning: [AssetLog] D:\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2021.06.09-21.53.57:082][552]LoadErrors: Failed to load /Game/BeachScene/Effects/Niagara/RT_Foam.RT_Foam Referenced by M_Fluid_Sim_01
+[2021.06.09-21.53.57:084][552]LogLinker: Warning: [AssetLog] D:\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to load '/Game/BeachScene/Effects/Niagara/RT_Foam': Can't find file.
+[2021.06.09-21.53.57:084][552]LoadErrors: Failed to load /Game/BeachScene/Effects/Niagara/RT_Foam.RT_Foam Referenced by MaterialExpressionTextureSample_1
+[2021.06.09-21.53.57:281][552]LogMaterial: Display: Missing cached shader map for material M_Fluid_Sim_01, compiling. 
+[2021.06.09-21.53.57:313][552]LogMaterial: Warning: [AssetLog] D:\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.09-21.53.57:319][552]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.06.09-21.53.57:320][552]LogMaterial: Display: Missing cached shader map for material M_Fluid_Sim_01, compiling. 
+[2021.06.09-21.53.57:322][552]LogMaterial: Warning: [AssetLog] D:\Epic Games\UE_4.26\Engine\Plugins\Experimental\Water\Content\FluidSimulation\Materials\Simulation\M_Fluid_Sim_01_NoTerrain.uasset: Failed to compile Material Instance with Base M_Fluid_Sim_01 for platform PCD3D_SM5, Default Material will be used in game.
+[2021.06.09-21.53.57:322][552]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.06.09-21.53.57:491][552]LogBlueprintEditor: Perf: 2.3 total seconds to load all 7 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2021.06.09-21.53.57:491][552]LogBlueprintEditor: Perf: 2.0 seconds loading: /Water/FluidSimulation/Blueprints/Libraries/PhysicsMacros
+[2021.06.09-21.53.58:390][552]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 126 classes and 0 folders.
+[2021.06.09-21.54.01:475][552]LogSlate: Took 0.011885 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.06.09-21.54.05:593][782]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.06.09-21.54.05:627][783]LogSlate: Took 0.020567 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.06.09-21.54.06:420][871]LogSlate: Window 'ThirdPerson_AnimBP' being destroyed
+[2021.06.09-21.54.08:582][ 83]LogSlate: Window 'Message Log' being destroyed
+[2021.06.09-21.54.08:597][ 83]LogSlate: Window 'Message Log' being destroyed
+[2021.06.09-21.54.26:364][  9]BlueprintLog: New page: Compile ThirdPerson_AnimBP
+[2021.06.09-21.54.26:619][  9]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2021.06.09-21.54.29:742][353]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.09-21.54.29:748][353]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.09-21.54.29:809][353]PIE: New page: PIE session: ThirdPersonExampleMap (10 июн. 2021 г., 03:54:29)
+[2021.06.09-21.54.29:876][353]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.06.09-21.54.29:878][353]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.06.09-21.54.29:895][353]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.06.09-21.54.30:114][353]LogPlayLevel: PIE: StaticDuplicateObject took: (0.211057s)
+[2021.06.09-21.54.30:124][353]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.06.09-21.54.30:140][353]LogPlayLevel: PIE: World Init took: (0.024949s)
+[2021.06.09-21.54.30:151][353]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.253053s)
+[2021.06.09-21.54.30:176][353]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2021.06.09-21.54.30:178][353]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.06.09-21.54.30:178][353]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.09-21.54.30:178][353]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.09-21.54.30:178][353]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.09-21.54.30:178][353]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.09-21.54.30:178][353]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.09-21.54.30:178][353]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.09-21.54.30:178][353]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.09-21.54.30:178][353]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.09-21.54.30:179][353]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.09-21.54.30:179][353]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.09-21.54.30:183][353]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.09-21.54.30:183][353]LogAudioMixer: Display: 1: FrontRight
+[2021.06.09-21.54.30:206][353]LogAudioMixer: Display: Using Audio Device Динамики (High Definition Audio Device)
+[2021.06.09-21.54.30:207][353]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.09-21.54.30:207][353]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.09-21.54.30:207][353]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.09-21.54.30:207][353]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.09-21.54.30:207][353]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.09-21.54.30:207][353]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.09-21.54.30:223][353]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.09-21.54.30:223][353]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.09-21.54.30:223][353]LogInit: FAudioDevice initialized.
+[2021.06.09-21.54.30:223][353]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonExampleMap'.
+[2021.06.09-21.54.30:276][353]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.09-21.54.30:287][353]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.06.09-21.54.30:306][353]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.06.10-00.54.30
+[2021.06.09-21.54.30:332][353]LogWorld: Bringing up level for play took: 0.043720
+[2021.06.09-21.54.30:333][353]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.06.09-21.54.30:351][353]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.06.09-21.54.30:580][353]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2021.06.09-21.54.30:591][353]PIE: Server logged in
+[2021.06.09-21.54.30:592][353]PIE: Play in editor total start time 0,844 seconds.
+[2021.06.09-21.54.30:623][353]LogInput: Error: Duplicate mapping of key None for axis MoveRight
+[2021.06.09-21.54.30:865][354]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2021.06.09-21.54.40:491][824]LogSlate: Window 'Zed_Attack2 Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.06.09-21.54.40:567][824]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.06.09-21.54.40:632][824]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.09-21.54.40:663][824]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.09-21.54.40:701][824]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.09-21.54.40:738][824]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.09-21.54.40:832][824]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.09-21.54.40:910][824]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.09-21.54.40:921][824]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.09-21.54.41:127][824]LogUObjectHash: Compacting FUObjectHashTables data took   6.75ms
+[2021.06.09-21.54.41:147][825]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.06.09-21.54.46:995][421]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Mannequin/Animations/ThirdPersonIdle.ThirdPersonIdle
+[2021.06.09-21.54.47:079][421]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.06.09-21.54.48:168][421]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.06.09-21.54.56:911][208]AssetReimport: New page: Outstanding source content changes 03:54:56
+[2021.06.09-21.54.57:043][209]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Unreal Projects/ZedAttack3/Content/3D/Box.fbx)
+[2021.06.09-21.54.57:394][209]LogFbx: Loading FBX Scene from D:/Unreal Projects/ZedAttack3/Content/3D/Box.fbx
+[2021.06.09-21.54.57:443][209]LogFbx: FBX Scene Loaded Succesfully
+[2021.06.09-21.55.05:545][209]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.06.09-21.55.06:132][209]LogStaticMesh: Building static mesh Box...
+[2021.06.09-21.55.06:435][209]LogStaticMesh: Built static mesh [0.36s] /Game/3D/Box.Box
+[2021.06.09-21.55.06:753][211]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3D/Box" FILE="../../../../../Unreal Projects/ZedAttack3/Content/3D/Box.uasset" SILENT=true
+[2021.06.09-21.55.06:760][211]LogSavePackage: Moving '../../../../../Unreal Projects/ZedAttack3/Saved/Box646F8C7346375623F68C8BB1EE9BFEBB.tmp' to '../../../../../Unreal Projects/ZedAttack3/Content/3D/Box.uasset'
+[2021.06.09-21.55.06:805][212]AssetCheck: New page: Asset Save: Box
+[2021.06.09-21.55.06:805][212]LogContentValidation: Display: Validating StaticMesh /Game/3D/Box.Box
+[2021.06.09-21.55.09:774][378]LogSlate: Window 'Message Log' being destroyed
+[2021.06.09-21.55.09:796][378]LogSlate: Window 'Message Log' being destroyed
+[2021.06.09-21.55.09:816][378]AssetReimport: Importing new asset /Game/3D/Box.
+[2021.06.09-21.55.19:425][143]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.06.09-21.55.19:425][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.09-21.55.19:537][143]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.06.09-21.55.19:537][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.09-21.55.19:739][143]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.06.09-21.55.19:739][143]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.09-21.56.49:546][ 16]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Mannequin/Animations/ThirdPerson_Jump.ThirdPerson_Jump
+[2021.06.09-21.56.49:552][ 16]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.06.09-21.56.49:904][ 16]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.06.09-21.56.53:244][328]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.06.09-21.56.53:244][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.09-21.56.53:265][328]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.06.09-21.56.53:265][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.09-21.56.53:314][328]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.06.09-21.56.53:314][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.09-21.57.45:869][491]LogUObjectHash: Compacting FUObjectHashTables data took   5.62ms
+[2021.06.09-21.57.48:778][491]LogSlate: Window 'Delete Assets' being destroyed
+[2021.06.09-21.57.56:049][762]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2021.06.09-21.57.58:732][762]LogSlate: Window 'Delete Assets' being destroyed
+[2021.06.09-21.57.58:993][762]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.06.09-21.57.58:993][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.09-21.57.59:011][762]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.06.09-21.57.59:011][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.09-21.57.59:037][762]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.06.09-21.57.59:037][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.09-21.57.59:100][762]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Mannequin/Animations/ThirdPersonIdle.ThirdPersonIdle
+[2021.06.09-21.58.02:193][762]LogUObjectHash: Compacting FUObjectHashTables data took   5.87ms
+[2021.06.09-21.58.02:272][762]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.06.09-21.58.02:292][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.06.09-21.58.22:978][281]LogAssetTools: Warning: Failed to import 'D:\Unreal Projects\Zed_Attack\Content\Mannequin\Animations\ThirdPersonIdle.uasset'. Unknown extension 'uasset'.
+[2021.06.09-21.58.53:626][452]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Mannequin/Animations/ThirdPersonIdle.ThirdPersonIdle
+[2021.06.09-21.58.53:631][452]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.06.09-21.58.53:981][452]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.06.09-21.58.57:490][803]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.06.09-21.58.57:490][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.09-21.58.57:506][803]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.06.09-21.58.57:506][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.09-21.58.57:549][803]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.06.09-21.58.57:549][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.09-21.59.00:490][988]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/Mannequin/Animations/ThirdPerson_IdleRun_2D.ThirdPerson_IdleRun_2D
+[2021.06.09-21.59.00:497][988]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.06.09-21.59.04:235][175]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.06.09-21.59.05:351][304]LogSlate: Window 'ThirdPerson_IdleRun_2D' being destroyed
+[2021.06.09-21.59.47:697][782]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.06.09-21.59.47:697][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.09-21.59.47:712][782]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.06.09-21.59.47:712][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.09-21.59.47:758][782]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.06.09-21.59.47:758][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.09-21.59.50:311][  3]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.09-21.59.50:317][  3]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.06.09-21.59.50:318][  3]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2021.06.09-21.59.50:359][  3]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2021.06.09-21.59.50:369][  3]LogPlayLevel: PlayLevel: Blueprint regeneration took 52 ms (1 blueprints)
+[2021.06.09-21.59.50:369][  3]PIE: New page: PIE session: ThirdPersonExampleMap (10 июн. 2021 г., 03:59:50)
+[2021.06.09-21.59.50:369][  3]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.06.09-21.59.50:412][  3]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042616s)
+[2021.06.09-21.59.50:413][  3]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.06.09-21.59.50:413][  3]LogPlayLevel: PIE: World Init took: (0.001494s)
+[2021.06.09-21.59.50:413][  3]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.044260s)
+[2021.06.09-21.59.50:440][  3]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.06.09-21.59.50:441][  3]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.06.09-21.59.50:441][  3]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.09-21.59.50:441][  3]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.09-21.59.50:441][  3]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.09-21.59.50:441][  3]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.09-21.59.50:441][  3]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.09-21.59.50:441][  3]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.09-21.59.50:441][  3]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.09-21.59.50:441][  3]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.09-21.59.50:441][  3]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.09-21.59.50:441][  3]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.09-21.59.50:446][  3]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.09-21.59.50:446][  3]LogAudioMixer: Display: 1: FrontRight
+[2021.06.09-21.59.50:465][  3]LogAudioMixer: Display: Using Audio Device Динамики (High Definition Audio Device)
+[2021.06.09-21.59.50:465][  3]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.09-21.59.50:465][  3]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.09-21.59.50:465][  3]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.09-21.59.50:466][  3]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.09-21.59.50:466][  3]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.09-21.59.50:466][  3]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.09-21.59.50:482][  3]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.09-21.59.50:482][  3]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.09-21.59.50:482][  3]LogInit: FAudioDevice initialized.
+[2021.06.09-21.59.50:482][  3]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonExampleMap'.
+[2021.06.09-21.59.50:493][  3]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.06.09-21.59.50:496][  3]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.06.10-00.59.50
+[2021.06.09-21.59.50:497][  3]LogWorld: Bringing up level for play took: 0.003451
+[2021.06.09-21.59.50:497][  3]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2021.06.09-21.59.50:514][  3]PIE: Server logged in
+[2021.06.09-21.59.50:515][  3]PIE: Play in editor total start time 0,2 seconds.
+[2021.06.09-21.59.50:515][  3]LogInput: Error: Duplicate mapping of key None for axis MoveRight
+[2021.06.09-21.59.54:005][319]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.09-21.59.54:005][319]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.06.09-21.59.54:005][319]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.06.09-21.59.54:006][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.09-21.59.54:033][319]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.09-21.59.54:038][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.09-21.59.54:061][319]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.09-21.59.54:061][319]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.09-21.59.54:062][319]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.09-21.59.54:091][319]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2021.06.09-21.59.54:123][320]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2021.06.09-21.59.57:725][587]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2021.06.09-22.00.01:418][587]LogSlate: Window 'Save Content' being destroyed
+[2021.06.09-22.00.01:467][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3D/M_Wood_Pine" FILE="../../../../../Unreal Projects/ZedAttack3/Content/3D/M_Wood_Pine.uasset" SILENT=true
+[2021.06.09-22.00.01:473][587]LogSavePackage: Moving '../../../../../Unreal Projects/ZedAttack3/Saved/M_Wood_Pine676CBF2743D7EFC7D09EA59671A6CBA0.tmp' to '../../../../../Unreal Projects/ZedAttack3/Content/3D/M_Wood_Pine.uasset'
+[2021.06.09-22.00.01:489][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Animations/ThirdPerson_AnimBP" FILE="../../../../../Unreal Projects/ZedAttack3/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" SILENT=true
+[2021.06.09-22.00.01:593][587]LogSavePackage: Moving '../../../../../Unreal Projects/ZedAttack3/Saved/ThirdPerson_AnimBPBD48C6094D573E7E0167ECBA10972D00.tmp' to '../../../../../Unreal Projects/ZedAttack3/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset'
+[2021.06.09-22.00.01:609][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mannequin/Animations/ThirdPerson_IdleRun_2D" FILE="../../../../../Unreal Projects/ZedAttack3/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" SILENT=true
+[2021.06.09-22.00.01:615][587]LogSavePackage: Moving '../../../../../Unreal Projects/ZedAttack3/Saved/ThirdPerson_IdleRun_2D6B902D54460CDC0F49D3AEA15F877073.tmp' to '../../../../../Unreal Projects/ZedAttack3/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset'
+[2021.06.09-22.00.01:649][587]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.09-22.00.01:650][587]LogContentValidation: Display: Validating AnimBlueprint /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP
+[2021.06.09-22.00.01:650][587]LogContentValidation: Display: Validating BlendSpace1D /Game/Mannequin/Animations/ThirdPerson_IdleRun_2D.ThirdPerson_IdleRun_2D
+[2021.06.09-22.00.01:650][587]LogContentValidation: Display: Validating Material /Game/3D/M_Wood_Pine.M_Wood_Pine
